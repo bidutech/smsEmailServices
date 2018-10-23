@@ -1,0 +1,78 @@
+{
+	"ImportPath": "smsEmailServices",
+	"GoVersion": "go1.11",
+	"GodepVersion": "v80",
+	"Deps": [
+		{
+			"ImportPath": "github.com/astaxie/beego",
+			"Comment": "v1.10.1",
+			"Rev": "053a075344c118a5cc41981b29ef612bb53d20ca"
+		},
+		{
+			"ImportPath": "github.com/astaxie/beego/config",
+			"Comment": "v1.10.1",
+			"Rev": "053a075344c118a5cc41981b29ef612bb53d20ca"
+		},
+		{
+			"ImportPath": "github.com/astaxie/beego/context",
+			"Comment": "v1.10.1",
+			"Rev": "053a075344c118a5cc41981b29ef612bb53d20ca"
+		},
+		{
+			"ImportPath": "github.com/astaxie/beego/context/param",
+			"Comment": "v1.10.1",
+			"Rev": "053a075344c118a5cc41981b29ef612bb53d20ca"
+		},
+		{
+			"ImportPath": "github.com/astaxie/beego/grace",
+			"Comment": "v1.10.1",
+			"Rev": "053a075344c118a5cc41981b29ef612bb53d20ca"
+		},
+		{
+			"ImportPath": "github.com/astaxie/beego/logs",
+			"Comment": "v1.10.1",
+			"Rev": "053a075344c118a5cc41981b29ef612bb53d20ca"
+		},
+		{
+			"ImportPath": "github.com/astaxie/beego/session",
+			"Comment": "v1.10.1",
+			"Rev": "053a075344c118a5cc41981b29ef612bb53d20ca"
+		},
+		{
+			"ImportPath": "github.com/astaxie/beego/toolbox",
+			"Comment": "v1.10.1",
+			"Rev": "053a075344c118a5cc41981b29ef612bb53d20ca"
+		},
+		{
+			"ImportPath": "github.com/astaxie/beego/utils",
+			"Comment": "v1.10.1",
+			"Rev": "053a075344c118a5cc41981b29ef612bb53d20ca"
+		},
+		{
+			"ImportPath": "github.com/toolkits/web/errors",
+			"Rev": "dc0f03327e1d58851ef88fca6e8008ffb6de806a"
+		},
+		{
+			"ImportPath": "github.com/toolkits/web/param",
+			"Rev": "dc0f03327e1d58851ef88fca6e8008ffb6de806a"
+		},
+		{
+			"ImportPath": "golang.org/x/crypto/acme",
+			"Rev": "0e37d006457bf46f9e6692014ba72ef82c33022c"
+		},
+		{
+			"ImportPath": "golang.org/x/crypto/acme/autocert",
+			"Rev": "0e37d006457bf46f9e6692014ba72ef82c33022c"
+		},
+		{
+			"ImportPath": "gopkg.in/gomail.v2",
+			"Comment": "2.0.0-23-g81ebce5",
+			"Rev": "81ebce5c23dfd25c6c67194b37d3dd3f338c98b1"
+		},
+		{
+			"ImportPath": "gopkg.in/yaml.v2",
+			"Comment": "v2.2.1",
+			"Rev": "5420a8b6744d3b0345ab293f6fcba19c978f1183"
+		}
+	]
+}
